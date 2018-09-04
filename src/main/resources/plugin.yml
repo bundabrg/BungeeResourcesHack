@@ -1,0 +1,7 @@
+name: BungeeResourcesHack
+version: 1.0
+main: au.com.grieve.bungeeresourceshack.BungeeResourcesHack
+commands:
+  gusepack:
+    description: Use a resource pack
+    usage: /gusepack player pack
